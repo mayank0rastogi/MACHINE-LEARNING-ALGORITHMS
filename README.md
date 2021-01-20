@@ -4,5 +4,5 @@
 
 ## Table of Content:
 ```
-
+Linear Regression
 ```
