@@ -6,3 +6,6 @@
 ```
 Linear Regression
 ```
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/mayank0rastogi/MACHINE-LEARNING-ALGORITHMS.svg)](https://starchart.cc/mayank0rastogi/MACHINE-LEARNING-ALGORITHMS)
