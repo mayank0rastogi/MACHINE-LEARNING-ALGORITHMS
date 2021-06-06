@@ -1,0 +1,86 @@
+Infosys Headstart
+https://github.com/Hamxea/Multi-label-Classification
+https://github.com/nkartik94/Multi-Label-Text-Classification
+https://github.com/lonePatient/Bert-Multi-Label-Text-Classification
+https://github.com/castorini/anserini-notebooks
+https://github.com/arghyadeep99/CoronaXiv
+https://github.com/castorini/anserini/blob/master/docs/experiments-cord19.md
+https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/Pyserini%2BSciBERT_on_COVID_19_Demo.ipynb
+https://appliedmachinelearning.blog/2018/07/31/developing-a-fast-indexing-and-full-text-search-engine-with-whoosh-a-pure-python-library/
+https://github.com/flairNLP/flair
+
+
+one more thing guys the sites you are researching and create a stack of technology of it
+and drawbacks like things  for this only legit quest will be using Ai 
+and doing smart search engine type of work and some analysis report, summary and graph of the reports 
+
+sir, I have to try finding summary by scratching text from the pdf and after
+ applying text preprocessing task on it  based approach upon legal documents and find the summary from it
+ ,
+so my question is that how I come into conclusion that summary I have found is correct
+
+
+https://github.com/suneelpatel/Natural-Language-Processing-NLP/tree/master/NER
+https://www.google.com/search?sxsrf=ALeKk03RB5lFThToWJ9TJUtZ-TEV0pXlRQ:1620334410523&q=Video+analysis+to+detect+suspicious+activity+based+on+deep+learning+github&sa=X&ved=2ahUKEwiOitOH-LXwAhXBc30KHQ00ARYQ1QIwD3oECBIQAQ
+Video analysis to detect suspicious activity based on deep learning github
+
+https://drive.google.com/drive/folders/1JuLlOiSUxolzHoz0_gtVLHXBqe5vBXxo~Search Engine
+https://www.machinelearningplus.com/nlp/text-summarization-approaches-nlp-example/
+
+https://java2blog.com/python-read-file-into-string/
+https://github.com/bhattbhavesh91/BERT-Topic-Modeling/blob/main/BERT-Topic-Modelling.ipynb
+
+https://github.com/techycs18/human-activity-recognition
+
+https://github.com/GauravSahani1417/Machine-Hack-Workathon/blob/main/Workathon%20Feature%20Selection%20Best%2007_04_2021.ipynb
+
+https://www.kaggle.com/aleksandrovich/smart-hyperparameter-tuning-with-optuna
+
+https://github.com/atchireddi-ecomMarketMixModeling/ElecKart
+https://www.google.com/search?sxsrf=ALeKk01tJr0hHXchvqGZ7QTfuW6P-ch0Uw:1619027366562&q=ElecKart+GitHub&sa=X&ved=2ahUKEwjL08L48o_wAhXw_XMBHQXHAo8Q1QIwC3oECAsQAQ&biw=1536&bih=722
+
+https://github.com/riteshgajera/ocr-image-text/blob/master/ocr-image-scan.ipynb
+https://github.com/GauravSahani1417/Machine-Hack-Workathon
+how to extract data from zomato api using python
+how to fecth data from api and perform data cleaning gihtub
+https://github.com/budhiahimanshu96/Text-Semantic-Similarity-MachineLearning/blob/master/EndSem/TextSemanticSimilarity_Final.py
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
+greatlearning github
+covid vaccine tracker  streamlit web app github
+https://github.com/tushar-31093/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+https://www.pyimagesearch.com/2019/11/25/human-activity-recognition-with-opencv-and-deep-learning/
+https://www.pythonprogramming.in/twitter-data-mining-in-python.html
+https://pydigger.com/pypi/top2vec
+https://ai.intelligentonlinetools.com/ml/fasttext-word-embeddings-text-classification-python-mlp/
+https://github.com/bhattbhavesh91/Top2Vec-Demo/blob/main/Top2Vec-Notebook.ipynb
+https://github.com/prateekjoshi565/topic_modeling_online_reviews/blob/master/Mining_Online_Reviews_using_Topic_Modeling_(LDA).ipynb
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+https://deeplearningdemystified.com/article/nlp-1
+
+https://paperswithcode.com/paper/docbert-bert-for-document-classification#code
+https://subscription.packtpub.com/book/application_development/9781782167853/1/ch01lvl1sec11/tokenizing-sentences-using-regular-expressions
+
+https://github.com/rsreetech/SentenceTransformerDemo
+
+https://github.com/riteshgajera/ocr-image-text
+crowd counting applications github
+https://github.com/numediart/Crowd-Counting-with-MCNNs
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+@@@@@@@@@@@@@@@@@Beautiful query search engine?????????????????????????????????
+https://dev.to/balapriya/matrix-factorization-approaches-to-topic-modeling-4ok4
+https://githubmemory.com/repo/shashankg7/anserini-notebooks
+pyserini-msmarco-passage-demo
+anserini bert squad for semantic corpus search
+
+%%%%%%%%%%%%%%%%%%%%IMAGE PROCESSING USING OPENCV)))))))))))))))))))))))))))))))))))))))))
+https://github.com/BhanuPrakashNani
+https://machinelearningknowledge.ai/cool-computer-vision-github-projects-to-inspire-you/
+
+manishmadaan@ddn.upes.ac.in
+pkala@ddn.upes.ac.in
+
+https://qbox.io/blog/practical-guide-elasticsearch-scoring-relevancy
+https://thispointer.com/python-read-a-csv-file-line-by-line-with-or-without-header/
+USEFULL LINK FOR ELASTIC SEARCH AND SEARCH ENGINE
+https://theaidigest.in/load-csv-into-elasticsearch-using-python/
